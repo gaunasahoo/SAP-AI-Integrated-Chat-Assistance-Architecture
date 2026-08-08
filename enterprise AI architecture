@@ -1,0 +1,27 @@
+                 Business Users
+                       |
+                 Web / Teams / SAP UI
+                       |
+                 API Management
+                       |
+              AI Application Layer
+                       |
+          +------------+-------------+
+          |                          |
+       RAG Layer                AI Agents
+          |                          |
+     AI Search                  Orchestrator
+          |                          |
+     Vector Store             Business Tools
+          |                          |
+          +------------+-------------+
+                       |
+                  Azure OpenAI
+                       |
+        +--------------+--------------+
+        |                             |
+    SAP Finance                 Enterprise Data
+        |                             |
+   SAP APIs/OData              Data Lake / DB
+        |
+   Finance Processes
