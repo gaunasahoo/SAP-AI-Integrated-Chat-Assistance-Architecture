@@ -1,0 +1,15 @@
+@@Author : Goutam Sahoo
+User → AI Assistant → Agent/Orchestrator → Azure API Management → SAP S/4HANA → Response
+
+With these Azure components:
+
+User: Microsoft Teams / Web / Mobile
+AI Assistant: Microsoft Copilot Studio or Azure AI Foundry
+Agent / Orchestrator: Azure AI Foundry Agent Service / Azure Functions / Logic Apps
+API Layer: Azure API Management
+SAP Integration: SAP OData / REST / RFC through secure integration
+SAP Finance: SAP S/4HANA Finance — GL, AP, AR, Asset Accounting, Controlling
+RAG/Knowledge: Azure AI Search + Azure Blob Storage
+Security: Microsoft Entra ID + Managed Identity + Azure Key Vault
+Monitoring: Azure Monitor + Application Insights
+Governance: Microsoft Purview + Azure AI Foundry evaluation/governance
